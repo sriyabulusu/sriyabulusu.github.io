@@ -1,5 +1,13 @@
 .App {
-  text-align: center;
-  background: #789774FF;
+  margin: 'auto';
+}
+
+.header {
+  margin: '100px';
+  padding: '100px';
+}
+
+.text {
+  background: rgb(192, 210, 127);
   max-width: fit-content;
 }
